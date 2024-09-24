@@ -1,0 +1,345 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-color:#DEE5EF;
+}
+
+#main{
+	width:100%;
+	height:auto;
+	margin:auto;
+	background-color:#B6BCC6;
+}
+
+
+.header{
+	width:100%;
+	height:50px;
+	background-color:#073787;
+	display:flex;
+}
+
+
+.box1{
+	width:50%;
+	float:left;
+	color:white;
+	font-size:20px;
+	font-family:Bahnschrift SemiBold Condensed;
+	padding-top:10px;
+}
+
+.box2{
+	width:50%;
+	float:right;
+	color:white;
+	font-size:20px;
+	font-family:Bahnschrift SemiBold Condensed;
+	padding-top:10px;
+	padding-left:700px;
+}
+
+.secondline{
+	width:100%;
+	height:150px;
+	background-color:white;
+	display:flex;
+	
+}
+
+
+.box3{
+	width:40%;
+	height:100px;
+	background-color:white;
+	padding-left:35px;
+	padding-top:20px;
+}
+
+.box4{
+	width:7.5%;
+	height:150px;
+	color:#073787;
+	font-size:18px;
+	font-family:Copperplate Gothic Bold;
+	padding-top:75px;
+}
+
+.box5{
+	width:7.5%;
+	height:150px;
+	color:#073787;
+	font-size:18px;
+	font-family:Copperplate Gothic Bold;
+	padding-top:75px;
+}
+
+
+.box6{
+	width:7.5%;
+	height:150px;
+	color:#073787;
+	font-size:18px;
+	font-family:Copperplate Gothic Bold;
+	padding-top:75px;
+}
+
+.box7{
+	width:7.5%;
+	height:150px;
+	color:#073787;
+	font-size:18px;
+	font-family:Copperplate Gothic Bold;
+	padding-right:10px;
+	padding-top:75px;
+}
+
+.box8{
+	width:7.5%;
+	height:150px;
+	color:#073787;
+	font-size:18px;
+	font-family:Copperplate Gothic Bold;
+	padding-top:75px;
+}
+
+	
+.box9{
+	width:7.5%;
+	height:150px;
+	color:#073787;
+	font-size:18px;
+	font-family:Copperplate Gothic Bold;
+	padding-top:75px;
+}
+
+.box10{
+	width:7.5%;
+	height:150px;
+	color:#073787;
+	font-size:18px;
+	font-family:Copperplate Gothic Bold;
+	padding-top:75px;
+}
+
+
+.box11{
+	width:7.5%;
+	height:150px;
+	color:#073787;
+	font-size:18px;
+	font-family:Copperplate Gothic Bold;
+	padding-top:75px;
+}
+
+.text{
+	width:100%;
+	height:50px;
+	background-color:#DEE5EF;
+	display:flex;
+	color:#75A5F7;
+	font-family:arial black;
+	font-size:25px;
+	padding-left:160px;
+}
+
+.paragraph{
+	width:100%;
+	height:250px;
+	background-color:#DEE5EF;
+	display:flex;
+}
+
+
+.paragraph1{
+	width:10%;
+	height:250px;
+	background-color:#DEE5EF;
+	display:flex;
+}
+
+.paragraph2{
+	width:60%;
+	height:250px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:18px;
+	line-height:50px;
+	color:#868F9C;
+	
+}
+
+.paragraph3{
+	width:30%;
+	height:250px;
+	background-color:#DEE5EF;
+	display:flex;
+}
+
+
+.unorder{
+	width:100%;
+	height:50px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:25px;
+	color:black;
+	font-family:arial black;
+	padding-left:160px;
+}
+
+
+.unorder1{
+	width:100%;
+	height:450px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:20px;
+	color:#868F9C;
+	padding-left:180px;
+	line-height:26px;
+}
+
+
+.order{
+	width:100%;
+	height:50px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:25px;
+	color:black;
+	font-family:arial black;
+	padding-left:160px;
+}
+
+.order1{
+	width:100%;
+	height:30px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:20px;
+	color:black;
+	padding-left:160px;
+}
+
+.order2{
+	width:100%;
+	height:150px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:20px;
+	color:#868F9C;
+	padding-left:180px;
+	padding-bottom:8px;
+	line-height:25px;
+}
+
+.topic2{
+	width:100%;
+	height:50px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:20px;
+	color:black;
+	padding-left:160px;
+}
+
+
+.topic3{
+	width:100%;
+	height:250px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:20px;
+	color:#868F9C;
+	padding-left:180px;
+	padding-bottom:5px;
+	line-height:25px;
+}
+
+
+.last{
+	width:100%;
+	height:100px;
+	background-color:#DEE5EF;
+	font-size:20px;
+	color:#868F9C;
+	padding-left:160px;
+	font-family:arial black;
+	padding-top:100px;
+}
+
+
+.final{
+	width:100%;
+	height:50px;
+	background-color:#073787;
+    color:white;
+	padding-top:15px;
+	font-size:20px;
+}
+
+
+
+.topic4{
+	width:100%;
+	height:50px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:20px;
+	color:black;
+	padding-left:160px;
+}
+
+
+
+.topic5{
+	width:100%;
+	height:200px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:20px;
+	color:#868F9C;
+	padding-left:180px;
+	line-height:30px;
+}
+
+
+.topic6{
+	width:100%;
+	height:50px;
+	background-color:#DEE5EF;
+	display:flex;
+	font-size:20px;
+	color:black;
+	padding-left:160px;
+}
+
+
+.topic7{
+	width:100%;
+	height:.250px;
+	background-color:pink;
+	display:flex;
+	font-size:20px;
+	color:#868F9C;
+	padding-left:180px;
+	line-height:30px;
+}
+
+
+.menu{width:100%;
+height:100px;
+background-color:white;
+padding:0px;
+display:flex;
+}
+
+
+.box22{
+	width:20%;
+	background-color:white;
+	height:250px;
+	font-family:Franklin Gothic Heavy;
+	font-size:25px;
+}
